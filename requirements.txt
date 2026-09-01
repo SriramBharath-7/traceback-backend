@@ -1,0 +1,16 @@
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+python-multipart==0.0.32
+sqlalchemy==2.0.52
+psycopg2-binary==2.9.12
+scikit-learn==1.8.0
+numpy==2.4.4
+joblib==1.5.3
+networkx==3.6.1
+requests==2.33.1
+python-whois==0.9.6
+dnspython==2.8.0
+google-auth==2.57.0
+google-auth-oauthlib==1.4.1
+google-api-python-client==2.199.0
+reportlab==4.4.10
